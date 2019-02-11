@@ -9,4 +9,7 @@
 ## Isolation
 * 2018, USENIX Security, [Security Namespace: Making Linux Security Frameworks Available to Containers](https://www.usenix.org/conference/usenixsecurity18/presentation/sun)
 * 2013, Eurosys, [
-Process firewalls: protecting processes during resource access](http://www.cse.psu.edu/~huv101/papers/vsj_2013_eurosys.pdf)
+Process firewalls: protecting processes during resource access](http://www.cse.psu.edu/~huv101/papers/vsj_2013_eurosys.pdf) 
+
+## APT
+* 2019, S&P, [HOLMES: Real-Time APT Detection through Correlation of Suspicious Information Flows](https://csdl.computer.org/csdl/proceedings/sp/2019/6660/00/666000a430.pdf)
